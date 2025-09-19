@@ -12,7 +12,7 @@
 # -------------------------
 # Config / Globals
 # -------------------------
-UPDATE_URL="https://raw.githubusercontent.com/yourusername/yourrepo/main/shadow-installer.sh"
+UPDATE_URL="https://github.com/hiteshwy/Hosting-Installer.git"
 LOG_DIR="/var/log/shadow-installer"
 mkdir -p "$LOG_DIR"
 TIMESTAMP() { date +"%Y-%m-%d_%H-%M-%S"; }
